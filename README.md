@@ -34,3 +34,4 @@ to explore sales performance across different dimensions.
 
 ## Author
 Amanurrab
+<img width="1856" height="694" alt="image" src="https://github.com/user-attachments/assets/106d5c44-326d-4795-8214-f6866119af60" />
